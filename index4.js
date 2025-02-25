@@ -69,3 +69,15 @@
 // for(let i=0;str.length;i++){
 //     console.log(str[i]);
 // }
+
+// let arr = ["a","B","c","d","e"]
+// for(let i=0;i<arr.length;i++){
+//     console.log(arr[i]);
+// }
+
+//while loop
+
+// let num = 5;
+// while(num<10){
+//     num++
+// }
